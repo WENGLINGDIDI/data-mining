@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="439d1074-99dc-4a08-87c7-f36ef2f7acfe" port="22" customName="connect.cqa1.seetacloud.com" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="connect.cqa1.seetacloud.com" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
